@@ -43,7 +43,7 @@ DOMAIN-SUFFIX,whatsapp.info,Proxy
 DOMAIN-SUFFIX,whatsapp.net,Proxy
 DOMAIN-SUFFIX,whatsapp.org,Proxy
 DOMAIN-SUFFIX,whatsapp.tv,Proxy
-DOMAIN-SUFFIX,whatsappbrand.com
+DOMAIN-SUFFIX,whatsappbrand.com,Proxy
 DOMAIN-KEYWORD,whatsapp,Proxy
 IP-CIDR,158.85.224.160/27,Proxy,no-resolve
 IP-CIDR,158.85.46.128/27,Proxy,no-resolve
