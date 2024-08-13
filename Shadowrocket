@@ -16,6 +16,34 @@ dns-direct-fallback-proxy = true
 udp-policy-not-supported-behaviour = REJECT
 
 [Rule]
+##LINE域名
+DOMAIN-SUFFIX,scdn.co,PROXY
+DOMAIN-SUFFIX,line.naver.jp,PROXY
+DOMAIN-SUFFIX,line.me,PROXY
+DOMAIN-SUFFIX,lineapps.com,PROXY
+DOMAIN-SUFFIX,linecdn.net,PROXY
+DOMAIN-SUFFIX,linescdn.net,PROXY
+DOMAIN-SUFFIX,gcld-line.com,PROXY
+DOMAIN-SUFFIX,lin.ee,PROXY
+DOMAIN-SUFFIX,line-apps-beta.com,PROXY
+DOMAIN-SUFFIX,line-apps-rc.com,PROXY
+DOMAIN-SUFFIX,line-apps.com,PROXY
+DOMAIN-SUFFIX,line-beta.me,PROXY
+DOMAIN-SUFFIX,line-cdn.net,PROXY
+DOMAIN-SUFFIX,line-scdn.net,PROXY
+DOMAIN-SUFFIX,line.biz,PROXY
+DOMAIN-SUFFIX,line.me,PROXY
+DOMAIN-SUFFIX,linecorp.com,PROXY
+DOMAIN-SUFFIX,linefriends.com,PROXY
+DOMAIN-SUFFIX,linefriends.com.tw,PROXY
+DOMAIN-SUFFIX,linegame.jp,PROXY
+DOMAIN-SUFFIX,linemobile.com,PROXY
+DOMAIN-SUFFIX,linemyshop.com,PROXY
+DOMAIN-SUFFIX,lineshoppingseller.com,PROXY
+DOMAIN-SUFFIX,linetv.tw,PROXY
+DOMAIN-SUFFIX,naver.jp,PROXY
+DOMAIN-SUFFIX,nhncorp.jp,PROXY
+USERAGENT,Line*,PROXY
 ##LINE 服务IP段
 IP-CIDR,103.2.28.0/22,PROXY,no-resolve
 IP-CIDR,119.235.224.0/21,PROXY,no-resolve
