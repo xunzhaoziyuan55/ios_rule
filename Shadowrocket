@@ -16,6 +16,17 @@ dns-direct-fallback-proxy = true
 udp-policy-not-supported-behaviour = REJECT
 
 [Rule]
+## 成人网General娱乐
+DOMAIN-SUFFIX,91porn.com,Proxy
+DOMAIN-SUFFIX,pornhub.com,Proxy
+DOMAIN-SUFFIX,t66y.com,Proxy
+DOMAIN-SUFFIX,xvideos.com,Proxy
+DOMAIN-SUFFIX,kdw019.com,Proxy
+DOMAIN-SUFFIX,xvideos.com,Proxy
+DOMAIN-SUFFIX,pornhub.com,Proxy
+DOMAIN-SUFFIX,xnxx.com,Proxy
+DOMAIN-SUFFIX,xhamster.com,Proxy
+DOMAIN-SUFFIX,spankbang.com,Proxy
 # Telegram
 DOMAIN-SUFFIX,t.me,PROXY
 DOMAIN-SUFFIX,tdesktop.com,PROXY
