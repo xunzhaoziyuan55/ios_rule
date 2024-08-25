@@ -16,6 +16,7 @@ dns-direct-fallback-proxy = true
 udp-policy-not-supported-behaviour = REJECT
 
 [Rule]
+RULE-SET,https://raw.githubusercontent.com/mottzz87/crules/main/rule/talkatone.list,PROXY
 ## 成人网General娱乐
 DOMAIN-SUFFIX,91porn.com,PROXY
 DOMAIN-SUFFIX,pornhub.com,PROXY
